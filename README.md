@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on hackathon competitions<br>🤝 I’m looking for help with data analytics<br>🌱 I’m currently learning Computer Science at Universitas Indonesia<br>💬 Ask me about football<br>⚡ Fun fact I love classical music
+🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Computer Science at Universitas Indonesia<br>💬 Ask me about football<br>⚡ Fun fact I love classical music
 
 
 ## 🌐 Socials:
