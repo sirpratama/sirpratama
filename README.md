@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Computer Science at Universitas Indonesia<br>💬 Ask me about football<br>⚡ Fun fact I love classical music
+🔭 I'm currently working on innovative full-stack projects, including AI-powered career guidance platforms and comprehensive data analytics solutions<br>🌱 I'm pursuing Computer Science at Universitas Indonesia, diving deep into algorithms, data structures, and software engineering principles<br>💻 I'm passionate about building impactful web applications using React, Node.js, and PostgreSQL while exploring emerging AI technologies<br>🏆 Recent achievements include winning "Best Tech Implementation" and "Best UI/UX Design" at GDG Hackathon and leading successful team projects<br>💬 Ask me about football, web development, data analysis, or anything tech-related - I love discussing both the beautiful game and elegant code!<br>🎵 Fun fact: I'm a classical music enthusiast who finds that Bach's mathematical precision inspires my approach to clean, structured programming<br>⚡ Always eager to collaborate on projects that combine technology with real-world impact
 
 
 ## 🌐 Socials:
